@@ -1,16 +1,16 @@
 # ⚠️ Disclaimer :
-This repository consists solely of notes and e-books provided by the college. While some of these materials may have been collected from the internet, it is important to note that no assignments will be found here.
-## For Assignments : [Click Here](https://github.com/BEASTgg/6thsem)
+This repository consists solely of notes and e-books provided by the college. While some of these materials may have been collected from the internet, it is important to note that no assignments will be found here.<br><b>For assignments, you can refer to another repository by <i>[clicking here](https://github.com/BEASTgg/6thsem)</i></b>
 
-## For CSE CORE Syllabus : [Click Here](https://drive.google.com/file/d/1_uaK9x6Bot0PCpm_x-S-0dHAQKwT_Wce/view?usp=drive_link)
-## For CSE IOT Syllabus : [Click Here]()
-## For CSE AIML Syllabus : [Click Here]()
+### For CSE CORE Syllabus : [Click Here](https://drive.google.com/file/d/1_uaK9x6Bot0PCpm_x-S-0dHAQKwT_Wce/view?usp=drive_link)
+### For CSE IOT Syllabus : [Click Here]()
+### For CSE AIML Syllabus : [Click Here]()
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Notes 📜 :
 
-### CSE CORE :-
+## 📜 Notes :
+
+### CSE CORE :
 
 | No. | Subject |
 | --- | --- |
@@ -22,17 +22,10 @@ This repository consists solely of notes and e-books provided by the college. Wh
 | 6 | [Data Analytics](https://drive.google.com/drive/folders/1Po_PqPCiI5IEoXNUIPiVsvyhGBlrUSYg?usp=sharing) |
 | 7 | [SDP - VI](https://drive.google.com/drive/folders/1Rmb6Qlp9I3Z5M30_uDJnt3s6XD9UGoF2?usp=sharing) |
 
-FOR CSE (IOT) AND CSE (AIML) THIS NOTES SECTION WILL BE UPDATED ONCE THE SYLLABUS IS RECEIVED.
-
-## For Google Drive : [Click Here](https://drive.google.com/drive/folders/1mUm7of83a41k5uJQLcgt91DZne-b479P?usp=sharing)
+Once the syllabus for CSE (IoT) and CSE (AIML) is received, this notes section will be updated accordingly.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## For Youtube Videos : [Click Here](https://drive.google.com/file/d/1rlhgigA6dR4UaMJLO5TFmMNoWFfUYPmS/view?usp=sharing)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## For Google Drive : [Click Here](https://drive.google.com/drive/folders/1mUm7of83a41k5uJQLcgt91DZne-b479P?usp=sharing)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### For Youtube Playlists / Videos : [Click Here](https://drive.google.com/file/d/1rlhgigA6dR4UaMJLO5TFmMNoWFfUYPmS/view?usp=sharing)
+### For Google Drive : [Click Here](https://drive.google.com/drive/folders/1mUm7of83a41k5uJQLcgt91DZne-b479P?usp=sharing)
