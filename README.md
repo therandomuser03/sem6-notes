@@ -22,7 +22,7 @@ This repository consists solely of notes and e-books provided by the college. Wh
 | 6 | [Data Analytics](https://drive.google.com/drive/folders/1Po_PqPCiI5IEoXNUIPiVsvyhGBlrUSYg?usp=sharing) |
 | 7 | [SDP - VI](https://drive.google.com/drive/folders/1Rmb6Qlp9I3Z5M30_uDJnt3s6XD9UGoF2?usp=sharing) |
 
-Once the syllabus for CSE (IoT) and CSE (AIML) is received, this notes section will be updated accordingly.
+Once the syllabus for CSE (AIML) is received, this notes section will be updated accordingly.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
