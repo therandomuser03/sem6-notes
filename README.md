@@ -1,7 +1,7 @@
 # ⚠️ Disclaimer :
 This repository consists solely of notes and e-books provided by the college. While some of these materials may have been collected from the internet, it is important to note that no assignments will be found here.<br><b>For assignments, you can refer to another repository by <i>[clicking here](https://github.com/BEASTgg/6thsem)</i></b>
 
-### For CSE CORE Syllabus : [Click Here](https://drive.google.com/file/d/1_uaK9x6Bot0PCpm_x-S-0dHAQKwT_Wce/view?usp=drive_link)
+### For CSE CORE Syllabus : [Click Here](https://drive.google.com/file/d/1TJuCKXUKw_iQDzJiN_kJm9904Wh2tLmT/view?usp=sharing)
 ### For CSE IOT Syllabus : [Click Here]()
 ### For CSE AIML Syllabus : [Click Here]()
 
