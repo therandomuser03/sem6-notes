@@ -36,8 +36,6 @@ This repository consists solely of notes and e-books provided by the college. Wh
 | 7 | [SDP - VI](https://drive.google.com/drive/folders/1tBElPEKORr6qjOO8Xf_J8V4bRZbVBfrQ?usp=sharing) |
 
 
-Once the syllabus for CSE (AIML) is received, this notes section will be updated accordingly.
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
