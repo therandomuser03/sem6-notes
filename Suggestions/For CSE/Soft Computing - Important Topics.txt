@@ -1,0 +1,36 @@
+Soft Computing : Important for Exams
+
+
+(1) Fuzzy Logic :
+
+- Fuzzy Sets and it's operations
+- Fuzzy relational operations
+- Membership functions (triangular, etc.)
+- Crisp & Fuzzy Set, Hard and Soft Computing
+- Fuzzy Relation Composition
+- Mamdani, Zadeh's, Larsen (Rules)
+- Fuzzy Inferences, GMP and GFT
+- Fuzzy Logic Controller
+- Defuzzification
+- COG (problems / numericals)
+- Declassification
+
+
+(2) Neural Network :
+
+- About Neural Network (Introduction)
+- Implementation of AND, OR, XOR Gate
+- Single layered and Multi layered neural network
+- Backpropagation (Chain Rule - numerical)
+- Recurring Neural Network
+- Heap Network 
+
+
+(3) Genetic Algorithm :
+
+- Encoding, Selection Techniques, Mutation, Crossover 
+
+
+(4) Multi Objective : 
+
+- Rules of domination

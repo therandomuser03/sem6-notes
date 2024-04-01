@@ -1,0 +1,36 @@
+ESP : Important for Exams
+
+
+(1) DBMS :
+
+- Cardinality (mappings)
+- Function of dependency
+- Normalisation
+- Transaction
+- SQL
+
+
+(2) Automata Theory :
+
+- Regular Grammar (DFA, NFA)
+- Regular Expression
+- Pumping Lemma (Finite Automata)
+- Meele and Moore Machine
+- DFA-NFA Conversion
+- Turing Machine
+- CGF (common / mutual with Compiler Design)
+
+
+(3) COA :
+
+- Number conversion
+- Fourier Functions and Minimizations
+- Combinational Circuit (Arithmetic, Adder-Subtracter)
+- Memory management (cache memory)
+
+
+(4) Data Structure & Algorithm :
+
+- Stack & Queue
+- Tree (BST, B-Tree, AVL Tree, Heap Tree)
+- Complexity (searching, sorting)
